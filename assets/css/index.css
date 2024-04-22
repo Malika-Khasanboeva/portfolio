@@ -1,0 +1,28 @@
+/*
+#cdb4db
+#ffc8dd
+#ffafcc
+#bde0fe
+#a2d2ff */
+
+* {
+    background-color: #bde0fe;
+}
+.nav {
+    background-color: #cdb4db;
+    height: 5rem;
+}
+.nav-item .nav-link {
+    color: #f77f00;
+    background-color: #cdb4db;
+    height: 5rem;
+    font-size: 2rem;
+}
+
+.nav-item .nav-link:hover {
+    color: #fff;
+}
+
+.nav-item .nav-link:active {
+    color: #fff;
+}
